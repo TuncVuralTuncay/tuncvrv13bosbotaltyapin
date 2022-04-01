@@ -1,0 +1,8 @@
+Arkadaşlar merhaba 
+Ben tuncvrdev zaten biliyorsunuz ismimi
+
+Öncellikle aklınızda soru kalmaması için burada birkaç bilgilendirme yapacağım
+
+Botumuzu alıp kullanabilirsiniz ama kesinlikle hiç bir ortamda paylaşamassınız lisans olduğu için gerekli işlemleri başlatacağım
+
+Gerekli ayarlarmaları ayarlar.json dosyasında yapılacaktır
